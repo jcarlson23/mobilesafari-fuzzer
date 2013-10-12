@@ -1,0 +1,10 @@
+Package: me.cykey.msafarifuzzer
+Name: msafari_fuzzer
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: David Murray
+Author: David Murray
+Section: System
+Tag: role::hacker
