@@ -7,7 +7,7 @@ mobilesafari-fuzzer
 
 2. Install "file:// for MobileSafari" in Cydia (it's on saurik's repository.)
 
-3. Install safari-refresh. https://github.com/westbaer/safari-refresh
+3. Install safari-refresh. http://d.pr/f/5xF4 (or compile yourself: https://github.com/westbaer/safari-refresh)
 
 4. Get a random MOV file and place somewhere on your device. `/var/mobile/Media/Safari/original_file.mov` is good.
 
